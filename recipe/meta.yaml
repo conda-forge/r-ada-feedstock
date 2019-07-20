@@ -38,6 +38,7 @@ test:
 about:
   home: https://CRAN.R-project.org/package=ada
   license: GPL
+  license_file: '{{ environ["PREFIX"] }}/lib/R/share/licenses/GPL-3'
   summary: Performs discrete, real, and gentle boost under both exponential and  logistic loss
     on a given data set.  The package ada provides a straightforward,  well-documented,
     and broad boosting routine for classification, ideally suited  for small to moderate-sized
@@ -47,6 +48,3 @@ about:
 extra:
   recipe-maintainers:
     - conda-forge/r
-    - johanneskoester
-    - bgruening
-    - daler
