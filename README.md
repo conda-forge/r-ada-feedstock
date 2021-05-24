@@ -3,7 +3,7 @@ About r-ada
 
 Home: https://CRAN.R-project.org/package=ada
 
-Package license: GPL
+Package license: GPL-2.0-or-later
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ada-feedstock/blob/master/LICENSE.txt)
 
