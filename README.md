@@ -1,11 +1,11 @@
-About r-ada
-===========
+About r-ada-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ada-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=ada
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ada-feedstock/blob/main/LICENSE.txt)
 
 Summary: Performs discrete, real, and gentle boost under both exponential and  logistic loss on a given data set.  The package ada provides a straightforward,  well-documented, and broad boosting routine for classification, ideally suited  for small to moderate-sized data sets.
 
